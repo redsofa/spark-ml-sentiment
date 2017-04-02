@@ -15,13 +15,13 @@ URL : https://www.amazon.com/Big-Data-Analytics-Spark-Practitioners/dp/148420965
 * wget
 
 
-#Projects 
+# Projects 
 
 * transformers -> Custom Spark ML Pipeline transformers 
 * batch-train-model -> Spark job that trains a model and persists it for later use. [Output](batch-train-model/program_output.txt)
 * batch-use-model -> Spark job that uses persisted model for predictions. [Output](batch-use-model/program_output.txt)
 
-#Fetching the Labeled Data
+# Fetching the Labeled Data
 
 * run `sh download_data.sh` from the project root directoy (uses wget)
 

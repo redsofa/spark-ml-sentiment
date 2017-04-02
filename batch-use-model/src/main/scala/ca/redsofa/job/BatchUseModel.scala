@@ -28,7 +28,7 @@ object BatchUseModel {
       ReviewText("This is really bad"),
       ReviewText("This is great"),
       ReviewText("Burnt toast is better than this"),
-      ReviewText("Awefull movie"),
+      ReviewText("Awful movie"),
       ReviewText("Super$!! Horrific"),
       ReviewText("Bonkers"),
       ReviewText("Not Great")

@@ -1,5 +1,5 @@
-17/04/02 15:30:07 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-17/04/02 15:30:09 WARN SparkContext: Use an existing SparkContext, some configuration may not take effect.
+17/04/02 16:30:51 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+17/04/02 16:30:52 WARN SparkContext: Use an existing SparkContext, some configuration may not take effect.
 SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
@@ -11,7 +11,7 @@ SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further detail
 |This is really bad             |0.0       |[0.6817766005877771,0.3182233994122229] |
 |This is great                  |1.0       |[0.2675431622805497,0.7324568377194504] |
 |Burnt toast is better than this|1.0       |[0.42123293936733236,0.5787670606326676]|
-|Awefull movie                  |1.0       |[0.49885359097892057,0.5011464090210794]|
+|Awful movie                    |0.0       |[0.764468104988205,0.23553189501179497] |
 |Super$!! Horrific              |1.0       |[0.3870368288733393,0.6129631711266608] |
 |Bonkers                        |0.0       |[0.5063727389317092,0.49362726106829075]|
 |Not Great                      |1.0       |[0.2675431622805497,0.7324568377194504] |
